@@ -6,6 +6,7 @@ Dalam halaman ini telah tersedia beberapa proyek yang telah dikerjakan secara ma
 Selamat membaca dan bereksplorasi 🚀.
 
 Klik setiap proyek yang terdapat dalam tabel di bawah ini atau pada setiap direktori yang terletak di atas penjelasan ini untuk mengetahui isi dan kode proyek lebih lanjut.
+|:-------------------:|:-------------------------:|:----------------------------:|
 | Proyek              | Deskripsi                 | Modul yang digunakan         |
 | :-------------------- | :--------------------- |:---------------------------|
 |Analisis Gagal Bayar Nasabah|Mencari tahu hubungan antara **memiliki anak**, **status perkawinan**, **tingkat pendapatan**, dan **perbedaan tujuan pinjaman** terhadap potensi melakukan gagal bayar pinjaman (kredit) oleh nasabah|*pandas*|
