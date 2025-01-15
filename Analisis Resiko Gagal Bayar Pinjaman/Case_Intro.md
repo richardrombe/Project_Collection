@@ -2,7 +2,7 @@
 
 Dalam kesempatan ini, suatu bank memberikan tantangan kepada analis data untuk mencari tahu apa saja hal-hal yang dapat memengaruhi nasabah dalam gagal membayar pinjamannya. Bank yang identitasnya dirahasiakan ini memberikan beberapa hipotesa yang harus dibuktikan kebenarannya. Sebelum melangkah jauh ke sana, analis data juga direkomendasikan untuk mengeksplor data yang diberikan dengan rinci dan memastikan tidak adanya kesalahan dalam mengambil kesimpulan terhadap beberapa hipotesa yang akan diuji. Proyek ini dalam narasinya akan digunakan sebagai laporan bahan pertimbangan untuk membuat **penilaian kredit** untuk calon nasabah agar tepat sasaran. Penilaian kredit tersebut digunakan untuk mengevaluasi kemampuan calon peminjam untuk melunasi pinjaman mereka.
 
-Tujuan utama dari adanya proyek ini adalah seperti yang telah dijelaskan sebelumnya, yaitu untuk memastikan tiga hipotesa terdapat pengaruh terhadap gagal bayar pinjaman oleh nasabah dalam suatu bank yang tidak disebutkan namanya. Berikut ini merupakan hipotesa-hipotesa yang akan diuji dan dibuktikan dalam proyek ini.
+Tujuan utama dari adanya proyek ini adalah seperti yang telah dijelaskan sebelumnya, yaitu untuk memastikan beberapa hipotesa terdapat pengaruh terhadap gagal bayar pinjaman oleh nasabah dalam suatu bank yang tidak disebutkan namanya. Berikut ini merupakan hipotesa-hipotesa yang akan diuji dan dibuktikan dalam proyek ini.
 1. Apakah terdapat hubungan antara **memiliki anak** dan probabilitas seseorang melakukan gagal bayar pinjaman?
 2. Apakah terdapat hubungan antara **status perkawinan** dan probabilitas seseorang melakukan gagal bayar pinjaman?
 3. Apakah terdapat hubungan antara **tingkat pendapatan** dan probabilitas seseorang melakukan gagal bayar pinjaman?
