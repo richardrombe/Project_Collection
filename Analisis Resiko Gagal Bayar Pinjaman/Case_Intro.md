@@ -1,4 +1,4 @@
-## Case Study: Faktor-Faktor yang Memengaruhi Harga Penjualan Mobil
+## Case Study: Menganalisis Faktor-Faktor Resiko dalam Hal Gagal Membayar Pinjaman Kredit
 
 Dalam kesempatan ini, suatu bank memberikan tantangan kepada analis data untuk mencari tahu apa saja hal-hal yang dapat memengaruhi nasabah dalam gagal membayar pinjamannya. Bank yang identitasnya dirahasiakan ini memberikan beberapa hipotesa yang harus dibuktikan kebenarannya. Sebelum melangkah jauh ke sana, analis data juga direkomendasikan untuk mengeksplor data yang diberikan dengan rinci dan memastikan tidak adanya kesalahan dalam mengambil kesimpulan terhadap beberapa hipotesa yang akan diuji. Proyek ini dalam narasinya akan digunakan sebagai laporan bahan pertimbangan untuk membuat **penilaian kredit** untuk calon nasabah agar tepat sasaran. Penilaian kredit tersebut digunakan untuk mengevaluasi kemampuan calon peminjam untuk melunasi pinjaman mereka.
 
