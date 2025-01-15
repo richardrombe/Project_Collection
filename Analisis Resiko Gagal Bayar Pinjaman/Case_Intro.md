@@ -10,7 +10,7 @@ Tujuan utama dari adanya proyek ini adalah seperti yang telah dijelaskan sebelum
 
 |Nama Proyek    |Tujuan    |Modul    |Bahasa    |
 |---------------|----------|---------|----------|
-|Analisis Resiko Gagal Bayar Pinjaman|Mengetahui dan menguji apakah **memiliki anak**, **status perkawinan**, **tingkat pendapatan**, dan **perbedaan tujuan pinjaman** memiliki pengaruh terhadap kemungkinan calon nasabah dalam gagal melunasi pinjamannya|Pandas|Python|
+|[Analisis Resiko Gagal Bayar Pinjaman](https://github.com/richardrombe/Project_Collection/blob/c62d473cfb255cd76d052370485cccf6ffcd504b/Analisis%20Resiko%20Gagal%20Bayar%20Pinjaman/Analisis%20Resiko%20Gagal%20Bayar%20Pinjaman.ipynb)|Mengetahui dan menguji apakah **memiliki anak**, **status perkawinan**, **tingkat pendapatan**, dan **perbedaan tujuan pinjaman** memiliki pengaruh terhadap kemungkinan calon nasabah dalam gagal melunasi pinjamannya|Pandas|Python|
 
 ### Deskripsi Data yang akan Digunakan
 Berikut ini merupakan nama-nama kolom beserta definisinya yang akan digunakan dalam mengerjakan proyek ini.
